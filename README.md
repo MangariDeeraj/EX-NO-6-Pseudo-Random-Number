@@ -1,4 +1,4 @@
-<img width="1691" height="754" alt="image" src="https://github.com/user-attachments/assets/effbc57c-1eb3-4de3-9eac-d52e64ecca38" /># EX-NO-6-Pseudo-Random-Number
+# EX-NO-6-Pseudo-Random-Number
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
